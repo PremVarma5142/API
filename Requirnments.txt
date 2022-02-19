@@ -1,0 +1,5 @@
+tenserflow
+numpy
+io
+PIL
+flask
